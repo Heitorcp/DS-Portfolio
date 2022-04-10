@@ -14,8 +14,14 @@ Above all, that is more like a personal roadmap.
 * Machine Learning 🤖
 * Data Analysis | Vizualization 📈
 
-### Contents
-Working on it... ⚙️
+## Contents
+### Airbnb Boston Data Analysis 
+
+* [Medium Post](https://heitor-c-pinheiro.medium.com/airbnb-boston-data-analysis-a968736689e9)
+* [Github Repo](https://github.com/Heitorcp/airbnb_boston)
+
+![boston_intro](https://raw.githubusercontent.com/Heitorcp/airbnb_boston/main/images/boston-intro.png)
+
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/heitor-carvalho-pinheiro-4b58851b7/)  
