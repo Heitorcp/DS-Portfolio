@@ -22,6 +22,12 @@ Above all, that is more like a personal roadmap.
 
 ![boston_intro](https://raw.githubusercontent.com/Heitorcp/airbnb_boston/main/images/boston-intro.png)
 
+### World CO2 Emissions - Streamlit App 
+* [Streamlit app](https://heitorcp-scc-0252-trab-viz-app-q2pnex.streamlit.app/)
+* [Github Repo](https://github.com/Heitorcp/scc-0252-trab-viz)
+
+![streamlit_app](https://github.com/Heitorcp/scc-0252-trab-viz/blob/master/viz-streamlit.gif)
+
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/heitor-carvalho-pinheiro-4b58851b7/)  
