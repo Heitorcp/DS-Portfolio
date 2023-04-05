@@ -22,6 +22,8 @@ Above all, that is more like a personal roadmap.
 
 ![boston_intro](https://raw.githubusercontent.com/Heitorcp/airbnb_boston/main/images/boston-intro.png)
 
+---
+
 ### 🏭 World CO2 Emissions - Streamlit App 
 * [Streamlit app](https://heitorcp-scc-0252-trab-viz-app-q2pnex.streamlit.app/)
 * [Github Repo](https://github.com/Heitorcp/scc-0252-trab-viz)
@@ -32,3 +34,12 @@ Above all, that is more like a personal roadmap.
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/heitor-carvalho-pinheiro-4b58851b7/)  
 [Medium Blog](https://heitor-c-pinheiro.medium.com/)
+
+---
+
+### 📝 Pluggy Categorizer App - Streamlit App 
+
+That's an app created with Streamlit that allows you to easily categorize your financial data using Pluggy's Data Enrichment API.
+
+* [Pluggy Categorizer App](https://pluggycategorizer.streamlit.app/)
+* [Github Repo](https://github.com/Heitorcp/pluggy_enrichment_app)
